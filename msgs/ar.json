@@ -1,0 +1,55 @@
+{
+  "Navbar": {
+    "blog": "مدونة",
+    "status": "مدونة",
+    "projects": "المشاريع",
+    "contact": "اتصال"
+  },
+  "Hero": {
+    "locale": "ar",
+    "intro": "أهلا أنا",
+    "name": "عيوش",
+    "description": "مطور مكدس كامل ومسؤول النظام."
+  },
+  "Stack": {
+    "title": "My Stack",
+    "subtitle": "Technology that I'm specialised in",
+    "Topics": [
+      {
+        "title": "Frontend"
+      },
+      {
+        "title": "Backend"
+      },
+      {
+        "title": "Services"
+      },
+      {
+        "title": "Tools"
+      }
+    ]
+  },
+  "Projects": {
+    "title": "مشاريع مميزة",
+    "subtitle": "المشاريع الشخصية والتكليف",
+    "cta": "عرض الكل",
+    "personal": "شخصي",
+    "commission": "بتكليف"
+  },
+  "certs": {
+    "title": "My Certificates",
+    "subtitle": "Certificates that I have earned"
+  },
+  "contact": {
+    "landing": {
+      "title": "Like what you see?",
+      "cta": "Contact"
+    },
+    "page": {
+      "title": "Contact",
+      "desc": "Got a project in mind? What to chat? Feel free to reach out to me",
+      "email": "Send an email",
+      "twitter": "Message on Twitter"
+    }
+  }
+}
